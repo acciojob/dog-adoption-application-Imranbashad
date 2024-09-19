@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+*{
+	/* width:500px; */
+	padding:5px;
+}
+label{
+	width:200px;
+}
